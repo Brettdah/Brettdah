@@ -8,4 +8,4 @@ for some on centos 7 too (read me and test not reflecting that thought...
 
 Oh and I'm French ;)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brettdah&show_icons=true&theme=monokai&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brettdah&show_icons=true&theme=monokai&count_private=true&show&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
